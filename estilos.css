@@ -1,0 +1,28 @@
+.lateral-fundo {
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-position: top;
+}
+body {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.titulo {
+	font-family: Verdana;
+	background-position: right;
+	text-transform: uppercase;
+
+
+
+}
+.bordas {
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
