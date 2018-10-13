@@ -13,4 +13,3 @@ https://glacial.gitlab.io/2002-gauss-empresa-junior/
 ## Screnshot
 
 ![screenshot](design/01-home.png)
-
