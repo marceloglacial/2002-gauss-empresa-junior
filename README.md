@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-https://glacial.gitlab.io/2002-gauss-empresa-junior/
+https://marceloglacial.github.io/2002-gauss-empresa-junior/front-end/
 
 ## Screnshot
 
